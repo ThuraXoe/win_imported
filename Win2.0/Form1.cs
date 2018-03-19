@@ -22,6 +22,7 @@ namespace Win2._0
 
         private void button1_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Hi Github");
             //CheckStartUpIn2();
 
             //string path = "C:\\Evantek\\Move\\Run.bat";
